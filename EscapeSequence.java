@@ -16,6 +16,6 @@ public class EscapeSequence {
         System.out.println("\t|\t|   |    \\  /    |");
         System.out.println("\t|\t|   |     \\/     |_ _");
         System.out.println("\t _ _ _\t - - \t\n");
-
+        
     }
 }
