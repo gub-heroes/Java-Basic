@@ -13,21 +13,19 @@ public class UserInput {
         /*
          * Create Scanner object
          */
-        Scanner name = new Scanner(System.in);
-        Scanner age = new Scanner(System.in);
-        Scanner mail = new Scanner(System.in);
-
+        Scanner input = new Scanner(System.in);
+        Scanner input1= new Scanner(System.in);
         /*
          * Read user input
          */
         System.out.print("Enter User name : ");
-        oName = name.nextLine();
+        oName = input.nextLine();
 
         System.out.print("Enter your age : ");
-        oAge = age.nextInt();
+        oAge = input.nextInt();
 
         System.out.print("Enter your Email : ");
-        oMail = mail.nextLine();
+        oMail = input1.nextLine();
 
         /**
          * Show user given input
