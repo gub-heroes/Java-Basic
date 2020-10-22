@@ -15,8 +15,8 @@ public class sumavgmaxmin {
         for (int i = 0; i < arr.length; i++) {
             System.out.print("Enter the element:");
             arr[i] = input.nextInt();
-            sum += arr[i];
-            average = sum / arr.length;
+            sum += arr[i];// 1 + 2 = 3
+            average = sum / arr.length; // 3 / 2
 
         }
 
@@ -24,7 +24,7 @@ public class sumavgmaxmin {
         System.out.println("Here is the Average " + average);
         int max = arr[0];
         int min = arr[0];
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 1; i < arr.length; i++ ) {
             if (max < arr[i]) {
                 max = arr[i];
             }
