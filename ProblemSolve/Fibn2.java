@@ -3,7 +3,6 @@ package ProblemSolve;
 import java.util.Scanner;
 
 public class Fibn2 {
-   
     public static void main(String[] args) {
            int num;
            long fibonacci;
@@ -14,7 +13,7 @@ public class Fibn2 {
            System.out.print( num +"th Fibonacci term is = " + fibonacci );
            input.close();
     }
-    public static int fib(int n) {
+    public static long fib(long n) {
         if ((n == 0) || (n == 1))
            return n;
         else
