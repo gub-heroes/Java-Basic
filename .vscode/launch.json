@@ -1,0 +1,244 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - reverseDigit",
+            "request": "launch",
+            "mainClass": "ProblemSolve.reverseDigit",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tempDigit",
+            "request": "launch",
+            "mainClass": "ProblemSolve.tempDigit",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - timeTable",
+            "request": "launch",
+            "mainClass": "ProblemSolve.timeTable",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - series1",
+            "request": "launch",
+            "mainClass": "ProblemSolve.series1",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "ProblemSolve.demo",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo2",
+            "request": "launch",
+            "mainClass": "ProblemSolve.demo2",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - sortedArray",
+            "request": "launch",
+            "mainClass": "ProblemSolve.sortedArray",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TokenDemo",
+            "request": "launch",
+            "mainClass": "ProblemSolve.TokenDemo",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - palindrome",
+            "request": "launch",
+            "mainClass": "ProblemSolve.palindrome",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AscendingOrder",
+            "request": "launch",
+            "mainClass": "ProblemSolve.AscendingOrder",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaExample",
+            "request": "launch",
+            "mainClass": "ProblemSolve.JavaExample",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ascending",
+            "request": "launch",
+            "mainClass": "ProblemSolve.ascending",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StrPalin",
+            "request": "launch",
+            "mainClass": "ProblemSolve.StrPalin",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DataType<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "Basic.DataType",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EscapeSequence<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "Basic.EscapeSequence",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FormatSpecifier<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "Basic.FormatSpecifier",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UserInput<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "Basic.UserInput",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hello<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "Basic.hello",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CelsiusToFahrenhiet<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.CelsiusToFahrenhiet",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CircleOfArea<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.CircleOfArea",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FahrenhietToCelsius<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.FahrenhietToCelsius",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibn1<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.Fibn1",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibn2<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.Fibn2",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuadraticEquation<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.QuadraticEquation",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TriangleOfArea<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.TriangleOfArea",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-evenOdd<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.evenOdd",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-factorial1<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.factorial1",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-factorial2<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.factorial2",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-largestnumber<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.largestnumber",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sumavgmaxmin<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.sumavgmaxmin",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-test<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.test",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-vowelConsonant<Java-Basic_63f6fff7>",
+            "request": "launch",
+            "mainClass": "ProblemSolve.vowelConsonant",
+            "projectName": "Java-Basic_63f6fff7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-inputUser",
+            "request": "launch",
+            "mainClass": "inputUser"
+        }
+    ]
+}
