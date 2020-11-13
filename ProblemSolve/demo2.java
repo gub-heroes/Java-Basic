@@ -1,7 +1,7 @@
 //Problem 2 - Write a Java program to illustrate the concept of Single inheritance.
 package ProblemSolve;
 
-class Box {
+class Box{
     double width, height, depth;
 
     Box(Box ob) {
