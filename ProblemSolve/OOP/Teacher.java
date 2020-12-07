@@ -4,7 +4,7 @@ public class Teacher {
     String name;
     int phone;
 
-    void myMethod(String n, int ph) {
+    Teacher(String n, int ph){
         name = n;
         phone = ph;
     }
